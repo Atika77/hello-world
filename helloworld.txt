@@ -3,3 +3,12 @@
  I can operate some of numeric software. 
  Good in team work or individual. 
 I Love books.
+
+I want to create :
+- K-means Clustering
+- RFM Analysis
+- MBA Analysis
+- Logistic Regression
+- Multiple Linier Regression
+- Time Series Analysis
+- Xboost
